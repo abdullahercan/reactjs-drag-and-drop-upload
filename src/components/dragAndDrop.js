@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { FaImage, FaArrowCircleUp, FaBirthdayCake } from "react-icons/fa";
+import { FaImage, FaArrowCircleUp } from "react-icons/fa";
 
 const DragAndDrop = () => {
   const dropzoneRef = useRef(null);
